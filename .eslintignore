@@ -1,0 +1,12 @@
+**/node_modules/**
+.expo*
+.vscode
+**/build/**
+**/dist/**
+**/.git/**
+**/public/**
+
+babel.config.js
+*.svg
+
+
